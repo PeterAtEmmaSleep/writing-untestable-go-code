@@ -35,14 +35,17 @@ Try to make your application to look like more like a graph, not like a list:
 
 Instead of
 
+```
    s1
   /|\
  / | \
 /  |  \
 s2 s3  s4
+```
 
 ... do
 
+```
  s1
  /\
 /  \
@@ -50,3 +53,4 @@ s2 s3
    /\
   /  \
  s4  s5
+```
